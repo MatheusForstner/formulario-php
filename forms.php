@@ -1,8 +1,8 @@
-<?php
-$servername = 'GRPJNG011204010';
-$username = 'sa';
-$password = '1qaz@WSX3edc$RFV';
-$database = 'FINANCEIRAS';
+s<?php
+$servername = 'seu servidor';
+$username = 'seu usuario';
+$password = 'seu senha';
+$database = 'tabela dados';
 
 header('Content-Type: text/html; charset=UTF-8');
 
