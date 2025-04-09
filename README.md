@@ -22,20 +22,6 @@ Este projeto é um sistema web desenvolvido em PHP com HTML, CSS e jQuery, com b
 
 - `forms.php`: formulário principal com os campos de cadastro e lógica de envio para o banco de dados.
 
-### 📸 Capturas de Tela
-
-#### 🧾 Formulário de Cadastro
-
-![Formulário](docs/img/formulario.png)
-
-#### ✅ Dados Enviados com Sucesso
-
-![Sucesso](docs/img/sucesso.png)
-
-#### 📊 Visualização no Banco de Dados
-
-![Banco de Dados](docs/img/banco.png)
-
 ### 🧰 Pré-requisitos
 
 - Servidor com suporte a PHP (Apache, XAMPP, IIS etc.)
